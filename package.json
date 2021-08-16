@@ -1,0 +1,16 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "Node doit être installer sur voter ordinateur. Je vous invite à voir <a target=\"blank\" href=\"https://www.youtube.com/watch?v=lULBx0aXQJc&t=278s\">le tuto de la chaîne</a>, pour commencer avec NodeJs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3"
+  }
+}
